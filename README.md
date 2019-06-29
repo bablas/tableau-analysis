@@ -6,21 +6,26 @@
 
 
 
-![img4.png](attachment:img4.png)
 
-![img9.png](attachment:img9.png)
+<img src="img4.png" width="800" />
+
+
+<img src="img9.png" width="800" />
 
 In the following graph we see amount purchases increased during the Summer months 
 
-![img1.png](attachment:img1.png)
+
+<img src="img1.png" width="800" />
 
 The graph below shows the comparison of 24 hour vs. 3 day passes - The same asumption can be seen that the purchases increased as the weather got better
 
-![img2.png](attachment:img2.png)
+
+<img src="img2.png" width="800" />
 
 Sum of Trips taken
 
-![img3.png](attachment:img3.png)
+
+<img src="img3.png" width="800" />
 
 Sum of Trips Taken - Represented in 3 different kind of charts
 
@@ -28,14 +33,14 @@ Table form
 Line Chart
 Bar Chart
 
-![img5.png](attachment:img5.png)
 
-![img6.png](attachment:img6.png)
+<img src="img5.png" width="800" />
 
-![img7.png](attachment:img7.png)
+<img src="img6.png" width="800" />
 
-![img8.png](attachment:img8.png)
+<img src="img7.png" width="800" />
 
+<img src="img8.png" width="800" />
 
 ```python
 
